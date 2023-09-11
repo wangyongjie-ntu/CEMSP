@@ -1,0 +1,10 @@
+Synthetic Data Simple
+Test. Loss: 0.003 | Test acc: 0.999
+
+Thyroid Dataset
+Test. Loss: 0.134 | Test acc: 0.982 | Test F1: 0.990
+update 
+Test. Loss: 0.139 | Test acc: 0.982 | Test F1: 0.990
+
+Hepatitis
+Test. Loss: 0.262 | Test acc: 0.957, Test F1: 0.9754601226993865
